@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there! 👋
 
+[LinkedIn](https://www.linkedin.com/in/vincent-kong/)
 <!--
 **dv-kong/dv-kong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
